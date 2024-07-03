@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/JohnMwendwa/advice-generator-app](https://github.com/JohnMwendwa/advice-generator-app)
-- Live Site URL: [https://johnmwendwa.github.io/advice-generator-app](https://johnmwendwa.github.io/advice-generator-app/)
+- Solution URL: [https://github.com/YashSerai/Advice-Generator]((https://github.com/YashSerai/Advice-Generator))
+- Live Site URL: [https://YashSerai.github.io/Advice-Generator](https://YashSerai.github.io/Advice-Generator/)
 
 ## My process
 
