@@ -24,7 +24,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
+- View the optimal layout for the app depending on the device's screen size
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
@@ -33,9 +33,7 @@ Users should be able to:
 ![Project screenshot](design/desktop-preview.jpg)
 
 ### Links
-
-- Solution URL: [https://github.com/YashSerai/Advice-Generator]((https://github.com/YashSerai/Advice-Generator))
-- Live Site URL: [https://YashSerai.github.io/Advice-Generator](https://YashSerai.github.io/Advice-Generator/)
+- Site URL: [https://YashSerai.github.io/Advice-Generator](https://YashSerai.github.io/Advice-Generator/)
 
 ## My process
 
@@ -46,12 +44,3 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - JavaScript
-
-## Author
-
-- Website - [John Mwendwa](https://johnmwendwa.vercel.app/)
-- Frontend Mentor - [@JohnMwendwa](https://www.frontendmentor.io/profile/JohnMwendwa)
-
-## Reminder
-
-Talent is a gift, but consistency is a choice. Choose to show up every day, and greatness will follow.
